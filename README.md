@@ -13,7 +13,7 @@ using a reusable `JokeAPI` class.
 Install the dependency:
 
 ```bash
-pip install requests
+pip install -r requirements.txt
 ```
 
 Run the program:
